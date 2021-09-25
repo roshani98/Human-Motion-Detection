@@ -24,3 +24,6 @@ There are four python files that are used:
   - You can generate your own sample images via opencv and its drawing functions to make your own trackers
   - You can change the colours in temp.py to play around with your own perceptions.
   - You can tweak the values of colours from single_colour_locate_HSV.py to generate useful data from real images
+
+# Publication Link
+[I'm an inline-style link](https://www.google.com)
