@@ -26,4 +26,4 @@ There are four python files that are used:
   - You can tweak the values of colours from single_colour_locate_HSV.py to generate useful data from real images
 
 # Publication Link
-[I'm an inline-style link](https://www.google.com)
+[Inverse Kinematics Based Computational Framework for Robot Manipulation Inspired by Human Movements](https://link.springer.com/chapter/10.1007%2F978-981-15-8061-1_17)
